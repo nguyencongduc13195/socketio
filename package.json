@@ -1,0 +1,19 @@
+{
+  "name": "footbal-group-chat",
+  "version": "1.0.0",
+  "description": "football fans group chat using socketio nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyencongduc13195/socketio.git"
+  },
+  "author": "NCD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyencongduc13195/socketio/issues"
+  },
+  "homepage": "https://github.com/nguyencongduc13195/socketio#readme"
+}
